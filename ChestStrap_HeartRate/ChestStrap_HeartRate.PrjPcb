@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MUEFPFXL
 
 [Document3]
-DocumentPath=ChestStrap_HeartRate..SchLib
+DocumentPath=ChestStrap_HeartRate.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -86,10 +86,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GRPKWZJN
+DocumentUniqueId=VWVYDTPN
 
 [Document4]
-DocumentPath=ChestStrap_HeartRate..PcbLib
+DocumentPath=ChestStrap_HeartRate.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -103,7 +103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WCWUAIMU
+DocumentUniqueId=JCIKCLYR
 
 [Configuration1]
 Name=Sources
